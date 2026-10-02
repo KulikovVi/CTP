@@ -12,7 +12,7 @@ class Program
 
         Console.WriteLine("Hello, World!");
 
-        GreetUser("User2");
+        GreetUser("User1");
 
     }
 
